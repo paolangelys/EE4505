@@ -1,4 +1,4 @@
-Matlab Homework 1 Codes 
+### Matlab Homework 1 Codes 
 
 ```HW1_general.m``` presents the basic code utilized for the analysis of the step response of a third order system with a finite zero
 
